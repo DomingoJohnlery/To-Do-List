@@ -1,4 +1,4 @@
 # To-Do-List
 A Simple Python GUI To-Do List with Tkinter.
 
-### Currently In Process... :ghost:
+### Currently In Process... 🐍
