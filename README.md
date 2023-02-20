@@ -1,4 +1,6 @@
 # To-Do-List
 A Simple Python GUI To-Do List with Tkinter.
 
-### Currently In Process (Not Complete)... 🐍
+# What I Have Learned 🐍
+* Use of (if __name__ = '__main__') statement
+* Basic DataBase with Sqlite3
