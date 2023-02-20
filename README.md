@@ -2,5 +2,5 @@
 This is a Simple Python GUI To-Do List, Built with Tkinter and Backed by a Sqlite3 Database, Empowers Users to Seamlessly Add and Delete Tasks with Ease.
 
 # What I Have Learned 🐍
-* Use of if name == 'main' statement
+* Use of (if name == 'main') statement
 * Basic DataBase with Sqlite3
