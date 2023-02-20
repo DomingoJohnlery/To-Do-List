@@ -3,4 +3,4 @@ This is a Simple Python GUI To-Do List, Built with Tkinter and Backed by a Sqlit
 
 # What I Have Learned 🐍
 * Use of (if __name__ = '__main__') statement
-* Basic DataBase with Sqlite3
+* Basic DataBase with Sqlite3_
